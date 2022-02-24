@@ -2,7 +2,9 @@
   Originally written by COLBY PROFESSOR a long time ago.
   Updated by TWO COLBY PROFESSORS more recently
   Updated by THE FIRST COlBY PROFESSOR again in Fall 2018
-
+  NOTHING IN THIS FILE WAS CONTRIBUTED BY RYAN MOGAURO
+  IT WAS PROVIDED BY THE DEPARTMENT FOR STUDENTS IN THE CLASS
+  
   Creates a window using the JFrame class.
 
   Creates a drawable area in the window using the JPanel class.
