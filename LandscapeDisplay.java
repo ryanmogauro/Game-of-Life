@@ -1,7 +1,7 @@
 /*
-  Originally written by A PROFESSOR a long time ago.
-  Updated by TWO PROFESSORS more recently
-  Updated by A PROFESSOR again in Fall 2018
+  Originally written by COLBY PROFESSOR a long time ago.
+  Updated by TWO COLBY PROFESSORS more recently
+  Updated by THE FIRST COlBY PROFESSOR again in Fall 2018
 
   Creates a window using the JFrame class.
 
